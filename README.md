@@ -15,7 +15,16 @@ Node.js, Javascript, enviroment variables
 Nesta versão, foi adicionado um arquivo *config.js* para carregar as variáveis de ambiente.
 A leitura das variáveis foi feita a partir do módulo 'dotenv'
 
-Para usar, é preciso adicionar um arquivo '.env' ao seu repositório local e inserir a porta que deseja utilizar e a string de conexão com o seu cluster no MongoDB.
+#### Para utilizar este projeto
+
+Crie um arquivo .env após clonar o repositório
+Preencha-o com as informações:
+
+'''
+PORT = 
+MONGODB_CONN = 
+
+'''
 
 ## To-do
 
