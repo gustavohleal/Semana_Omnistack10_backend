@@ -19,12 +19,10 @@ A leitura das variáveis foi feita a partir do módulo 'dotenv'
 
 Crie um arquivo .env após clonar o repositório
 Preencha-o com as informações:
-
-'''
+```
 PORT = 
 MONGODB_CONN = 
-
-'''
+```
 
 ## To-do
 
